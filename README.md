@@ -1,7 +1,9 @@
-# Vixen Valley
+## Vixen Valley
 
-You are a fox. Restore order and recollect your tails to shape the world around you,  stance switch and manipulate elements to build an idyllic world. Vixen Valley is a 3D Isometric Puzzle Platformer, solve the puzzles by using the correct elements and configure the world around you. 
-____
+### **Description**
+
+Vixen Valley is a 3D Isometric Puzzle Platformer, solve the puzzles by using the correct elements and configure the world around you.  You are a fox. Restore order and recollect your tails to shape the world around you,  stance switch and manipulate elements to build an idyllic world.
+
 The player has four elements - Animal, Plant, Water, and Fire. 
 
 The Animal element gives the player the ability to bark - scaring away birds. 
@@ -12,8 +14,27 @@ The Water element gives the player the ability to water flowers, unlocking block
 
 The Fire element gives the player the ability to burn down bushes, also unlocking blocked-off areas.
 
-_____
-Group Project: 
+### Project Information
+
+**Release Date:** January 2023 
+
+**Project:** Year 2 Term 1 University Assignment 
+
+**Duration:** October 2022 to January 2023  
+
+**Project Brief:** Create a low-poly vertical slice of a casual mobile game.
+
+**Software Used:** Unity and C#
+
+**Platforms:** Windows
+
+### **Links:**
+
+**Itch.io page:** https://mealdealgames.itch.io/vixen-valley 
+
+**YouTube Gameplay:** https://youtu.be/YVUtFyPwYj4?si=Wu83GMXdp9524jYI 
+
+### Credits
 
 Cat Austin-Hawkins (myself) – Programmer 
 
@@ -26,28 +47,3 @@ Candice Dennis – 3D Modeller, Rigger, Animator, Clean up
 Dazhou Zhang – 3D Modeller, Textures
 
 Gongqui Li – 3D Modeller, Textures
-
-_____
-Created for Year 2 of my Bachelor's Degree
-
-The brief was to create a low-poly vertical slice of a casual mobile game. We made an isometric puzzle platformer, inspired by games such as Monument Valley. 
-
-
-____
-Development from October 2022 - January 2023
-
-Built for Windows & Android
-
-Using Unity and C#
-_____
-Itch.io Page Link
-
-https://cat-austin-hawkins.itch.io/vixen-valley
-
-Gameplay Video
-
-https://www.youtube.com/watch?v=YVUtFyPwYj4&ab_channel=CatAustin-Hawkins
-
-Portfolio Page
-
-https://www.chloeaustinhawkins.dev/group-projects
